@@ -1,4 +1,4 @@
-git unzip
+git unzip wget
 libssl-dev
 autogen automake libtool
 pkg-config
