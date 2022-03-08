@@ -1,0 +1,5 @@
+git unzip
+libssl-dev
+autogen automake libtool
+pkg-config
+vim
